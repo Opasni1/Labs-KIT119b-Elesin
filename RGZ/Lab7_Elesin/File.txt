@@ -1,0 +1,4 @@
+1 78 21000 78 Anton Chekhov 51 Panzer Howl 1
+2 56 125000 50 Burda Mis 49 Bonnie Claid MMM
+3 24 20000 81 Homo Sapiens 25 Molly Lord 2
+4 35 25000 53 Liric Ornstein 69 Nas Kurt KKK
